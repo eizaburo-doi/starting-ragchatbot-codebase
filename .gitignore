@@ -29,3 +29,6 @@ uploads/
 # OS
 .DS_Store
 Thumbs.db
+
+# local settings
+./CLAUDE.local.md
