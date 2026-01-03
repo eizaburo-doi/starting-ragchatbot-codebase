@@ -23,8 +23,12 @@ uploads/
 # IDE
 .vscode/
 .idea/
+.claude/
 *.swp
 *.swo
+
+# MCP Servers
+.playwright-mcp/
 
 # OS
 .DS_Store
